@@ -1,0 +1,3 @@
+# Learning Journal Day 11 Javascript Charts
+
+Today we learned about charts and how to implement them in your code. They are a nice graphical representation but are rather difficult and long winded to implement. They are for sure a nice thing to have access to and seem rather pretty for the page but I will want to think about what is going on when I am working with them. We also worked on more event handlers and were working with an image vote counter for the Bus-Mall project. I enjoyed that project immensely and have begun working on a side project trying to recreate The Duke game in a simple virtual implementation but I will have to think about ideas for this to complete.
